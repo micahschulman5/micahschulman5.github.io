@@ -4,6 +4,8 @@
 
 Hello I'm **Micah Schulman**, a senior at the University of Washington pursuing a **B.S. in Applied Physics**, with minors in **Data Science** and **English**.
 
+![Colchuck Lake, WA](Colchucklake.jpg)
+
 ## Experience Snapshot
 
 | Role                    | Organization                          | Dates               |
